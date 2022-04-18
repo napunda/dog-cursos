@@ -29,9 +29,14 @@ switch($pagina){
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./owlcarousel/dist/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="./owlcarousel/dist/assets/owl.carousel.min.css">
 </head>
 
 <body>
 </body>
+
+<script src="jquery.min.js"></script>
+<script src="./owlcarousel/dist/owl.carousel.min.js"></script>
 
 </html>

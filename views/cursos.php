@@ -1,11 +1,12 @@
 <div class="container">
-    <div class="cursos">
-        <div class="curso"></div>
-        <div class="curso"></div>
-        <div class="curso"></div>
-        <div class="curso"></div>
-        <div class="curso"></div>
-        <div class="curso"></div>
+    <div class="owl-carousel">
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
     </div>
 
 </div>
