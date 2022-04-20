@@ -3,6 +3,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Roboto Mono", monospace;
+  box-sizing: border-box;
 }
 
 a {
@@ -12,7 +13,28 @@ a {
 .container {
   width: 1300px;
   margin: auto;
+  display: flex;
+  justify-content: center;
 }
+
+.curso {
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0;
+  height: 300px;
+  width: 100%;
+  margin: 20px;
+  object-fit: contain;
+}
+
+.curso img {
+  
+  max-width: 200px;
+}
+
 
 .header {
   width: 100%;
@@ -63,9 +85,3 @@ a {
   align-items: center;
 }
 
-.curso {
-  height: 200px;
-  width: 250px;
-  background-color: aquamarine;
-  margin: 10px;
-}
